@@ -61,13 +61,15 @@ Proposals should include:
 - **Implementation Timeline:** Project timeline of anticipated key deliverables.
 - **Vendor Experience & References:** Project references or case studies with similar work.
 
-## 7. Evaluation Standards
-The proposals will be judged on:
-- **Technical Method (40%)** – Solutions offered for coverage, security, and management.
-- **Vendor Experience & Referrals (20%)** – Demonstrated proficiency in similar projects.
-- **Cost Effectiveness (20%)** – Competitiveness of price in terms of value and performance.
-- **Support & Maintenance (10%)** – Support and service plans offered post-deployment.
-- **Project Timeline (10%)** – Ability to meet deadlines without compromising quality.
+## 7. Evaluation Criteria
+| Criteria | Weight (%) |
+|----------|-----------|
+| **Technical Solution** (Coverage, Security, & Management) | 40% |
+| **Vendor Experience & References** | 20% |
+| **Cost Effectiveness** (Value & Performance) | 20% |
+| **Support & Maintenance Plan** | 10% |
+| **Project Timeline Feasibility** | 10% |
+
 
 ## 8. Submission Details
 - **Format:** PDF document
